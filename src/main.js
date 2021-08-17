@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 import { requerst } from './network/requerst'
 import 'normalize.css/normalize.css'
+import './plugins/element.js'
 
 Vue.config.productionTip = false
 new Vue({

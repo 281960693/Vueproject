@@ -7,11 +7,14 @@
 
 <script>
 import Maintab from './components/content/Maintab.vue';
+
 export default {
-  components: { Maintab },
+  components: { Maintab
+  },
 
 };
 </script>
 
 <style>
+
 </style>
